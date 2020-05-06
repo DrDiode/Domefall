@@ -29,6 +29,6 @@ Hard Drive:200 MB HD space or Higher
 
 [RELEASE NOTES/KNOWN ISSUES]
 -----------------
-*GAME SOURCE HAS BEEN RELEASED ON GITHUB, REMAKE IS COMING SOON!
+*GAME SOURCE HAS BEEN RELEASED ON GITHUB, REMAKE IS COMING SOON! REMAKE WILL REPLACE THIS VERSION!
 -----------------
 *Still working on collisions and pattern movement issues*
